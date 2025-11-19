@@ -1,5 +1,57 @@
-# 💫 About Me:
-🧑‍💻 About Me<br><br>Hi! I'm Zain Ul Abdeen, a Full Stack Mobile & Web App Developer with<br>3+ years of experience in Flutter, 1.5+ years in Node.js, and strong expertise in React.js.<br>I build SaaS products, AI applications, RAG pipelines, agents, automation, and full-stack mobile apps.<br><br>I’m passionate about crafting clean, scalable architectures and solving real-world problems through technology.<br><br>🔭 What I’m Working On<br><br>Building AI-powered applications using OpenAI, RAG, and agents<br><br>Developing SaaS products and cross-platform apps using Flutter<br><br>Working on blockchain integration & my first DApp (React + Node + PostgreSQL)<br><br>Creating chat UI interfaces using React + Vite + Tailwind + ShadCN<br><br>Implementing Stripe payments (Connect, Tap-to-Pay, Payouts)<br><br>🌱 What I’m Currently Learning<br><br>Advanced AI agents, tools, and automation pipelines<br><br>FastAPI for backend microservices<br><br>Blockchain development (Solidity, smart contracts, RPC integration)<br><br>Next.js 15 App Router with server actions<br><br>Scalable backend architecture & cloud functions<br><br>🤝 Looking to Collaborate On<br><br>AI-powered products (chatbots, automation, agents)<br><br>Flutter or React-based SaaS applications<br><br>Node.js/FastAPI backend projects<br><br>Open-source AI or devtool projects<br><br>Anything involving Stripe integrations or RAG systems<br><br>💬 Ask Me About<br><br>Flutter (architecture, UI/UX, maps, APIs, performance optimization)<br><br>React.js + Vite + Tailwind + ShadCN<br><br>Node.js backend (REST APIs, auth, scraping, cron jobs, AI functions)<br><br>AI integrations (LLMs, OpenAI, embeddings, RAG, scraping pipelines)<br><br>Building enterprise-level apps end to end<br><br>⚡ Fun Fact<br><br>I can build a full Flutter or React app from scratch faster than I can decide what to eat. 🍔🔥
+# 💫 About Me
+
+Hi, I'm **Zain Ul Abdeen** — a Full Stack Mobile & Web App Developer with  
+**4+ years in Flutter**, **1.5+ years in Node.js**, and strong expertise in **React.js**.  
+I work on SaaS products, AI applications, RAG pipelines, automation systems, and full-stack mobile apps.  
+
+I enjoy building clean, scalable systems and solving meaningful problems through technology.
+
+---
+
+## 🔭 What I'm Working On
+
+- AI-powered applications using OpenAI, RAG, and agentic workflows  
+- Cross-platform SaaS and mobile apps built with Flutter  
+- My first decentralized application (React + Node + PostgreSQL)  
+- Chat UI interfaces using React, Vite, Tailwind, and ShadCN  
+- Stripe integrations (Connect, Tap-to-Pay, payouts)
+
+---
+
+## 🌱 What I'm Currently Learning
+
+- Advanced AI agents and automation  
+- Backend microservices with FastAPI  
+- Blockchain development (Solidity, smart contracts, RPC integration)  
+- Next.js 15 App Router with server actions  
+- Cloud functions and scalable backend patterns
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- AI and automation-based products  
+- Flutter or React SaaS applications  
+- Node.js or FastAPI backend systems  
+- Open-source AI and developer tools  
+- Stripe integrations or RAG-based systems
+
+---
+
+## 💬 Ask Me About
+
+- Flutter architecture, UI/UX, maps, and API handling  
+- React.js with Vite, Tailwind, and ShadCN  
+- Node.js backend (auth, scraping, cron jobs, AI workflows)  
+- RAG pipelines, embeddings, scraping, and LLM integrations  
+- End-to-end enterprise app development
+
+---
+
+## ⚡ Fun Fact
+
+I can build a full Flutter or React app faster than I can decide what to eat. 🍔🔥
+
 
 
 ## 🌐 Socials:
